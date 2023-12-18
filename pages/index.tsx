@@ -38,10 +38,10 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  Crea tu MalaNFTDRINER por participar en la comunidad
                 </span>
                 <br />
-                faster than ever.
+            
               </h1>
               <p className={styles.heroSubtitle}>
                 <Link
@@ -49,15 +49,14 @@ const Home: NextPage = () => {
                   href="https://thirdweb.com"
                   target="_blank"
                 >
-                  thirdweb
+                  Para poder
                 </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+                mintear tendrá que comprar un malanftdriner primero.
               </p>
 
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
-                  Get Started
+                  Entra
                 </Link>
                 <Link
                   className={styles.secondaryCta}

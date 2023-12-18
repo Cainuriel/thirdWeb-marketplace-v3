@@ -1,0 +1,17 @@
+{
+    "name": "MalaNFTdriner Collection",
+    "description": "colleción para los malandrines de la comunidad de WebReactiva en la red de pruebas de Binance Smart Chain",
+    "external_url": "https://www.webreactiva.com/",
+    "image": "https://ipfs.io/ipfs/https://51623cd0566b8af3a0f025b847a1cde0.ipfscdn.io/ipfs/QmeNvZXEven14YTRQCApGBXzKojec4DCzfB3aGFwLzWCuM/ceo_binance.jpg",
+    "animation_url": "",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Unico"
+        },
+        {
+            "trait_type": "Cuenta creadora",
+            "value": "0x322d9e3F049a845e9C8ED089B2Bdf8F33c65a08F"
+        }
+    ]
+}
